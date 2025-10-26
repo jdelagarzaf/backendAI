@@ -2,6 +2,12 @@
 
 The backend is a Node.js + Express server that interfaces with a local AI model (LocalAI/Ollama).
 
+[CRM for Billy App](https://github.com/danielara071/billy)
+
+[API for Billy Web](https://github.com/German-coder07/HackMTYAPIwebapp)
+
+[API for Billy AI](https://github.com/jdelagarzaf/backendAI)
+
 ## Starting the Backend
 
 ```bash
